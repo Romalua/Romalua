@@ -1,4 +1,4 @@
-### Bme-Vindo eu sou o Lucas Barreto! 👋
+### Bem-vindo eu sou o Lucas Barreto! 👋
 
 - 🔭 Trabalhando com suporte técnico
 - 🌱 Estudando Javascript 
