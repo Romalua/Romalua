@@ -3,8 +3,8 @@
 - 🔭 Trabalhando com suporte técnico
 - 🌱 Estudando Javascript 
 - 📫 Contato no email: lucasradiaradiador@gmail.com
-- 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
-
+- 🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤🐱‍👤 
+- 
 <div>
   <a href="https://github.com/romalua">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romalua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
