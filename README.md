@@ -3,7 +3,7 @@
 - 🔭 Trabalhando com suporte técnico
 - 🌱 Estudando Javascript 
 - 📫 Contato no email: lucasradiaradiador@gmail.com
-- 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
+- 👨‍💻
 
 <div>
   <a href="https://github.com/romalua">
