@@ -1,6 +1,6 @@
 ### Bem-vindo eu sou o Lucas Barreto! 👋
 
-- 🔭 Trabalhando com suporte técnico
+- 🔭 Trabalhando ?
 - 🌱 Estudando Javascript 
 - 📫 Contato no email: lucasradiaradiador@gmail.com
 - 👨‍💻
