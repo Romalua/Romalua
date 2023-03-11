@@ -1,4 +1,4 @@
-### Bem-vindo eu sou o Lucas Barreto! 👋
+### Bem-vindo eu sou o Lucas André! 👋
 
 - 🔭 Trabalhando ?
 - 🌱 Estudando Javascript 
