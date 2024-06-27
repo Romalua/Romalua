@@ -1,2 +1,2 @@
-## Oi, eu sou Lucas André!👨🏻‍💻
+## Olá! Eu sou o Lucas André!👨🏻‍💻
 
