@@ -1,4 +1,4 @@
-## Bem-vindo, sou Lucas André!👨🏻‍💻
+## Oi, eu sou Lucas André!👨🏻‍💻
 <!--
 **Romalua/Romalua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
