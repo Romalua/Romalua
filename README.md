@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_barretoxd/)
 
 - 🤓 Meu nome é Lucas André Barreto. 
-- 🌱 Desenvolvo em ***KOTLIN#***, ***JAVA***, ***GO*** e ***PYTHON***
+- 🌱 Desenvolvo em ***KOTLIN***, ***JAVA***, ***GO*** e ***PYTHON***
 - 📫 Email: lucasradiaradiador@gmail.com
 - 🧑‍💼 Linkedin: https://www.linkedin.com/in/lucas-andre98/
 - 📱 Diariamente, dedico-me ao meu aprimoramento como desenvolvedor mobile, criando soluções inovadoras que cabem na palma da mão.📱 
