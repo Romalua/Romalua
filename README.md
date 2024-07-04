@@ -1,23 +1,47 @@
-# ***Olá! Bem vindo ao meu GitHub 👨🏻‍💻***
+<h1 align="left"> 👨🏻‍💻Olá! Bem-vindo ao meu perfil, me chamo Lucas André</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-andre98/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_barretoxd/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasradiaradiador)
-<di>
-- 🤓 Meu nome é Lucas André Barreto. 
-- 🌱 Desenvolvo em ***KOTLIN***, ***JAVA***, ***GO*** e ***PYTHON***<div style="display: inline_block"><br/>
-    <img align="center" left="30" alt="feh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" left="30" alt="feh-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-    <img align="center" left="30" alt="feh-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" left="30" alt="feh-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+###
+
+<h2 align="left">Sobre</h2>
+
+###
+
+<p>
+  Formado em Técnico em Informática e atualmente cursando Engenharia de Software. Desenvolvedor Mobile, especializado em Kotlin para Android, com formação no curso da UPInside. Estou constantemente aprimorando e atualizando meus conhecimentos nesta área dinâmica e empolgante, sempre buscando novas tecnologias e práticas inovadoras. Minha experiência inclui desenvolvimento de aplicações móveis robustas, design de interfaces intuitivas e integração de APIs. Meu objetivo é criar soluções móveis eficientes que ofereçam excelente experiência de usuário. 
+</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Romalua=anuraghazra&layout=compact">
+  
+###
+
+<h2 align="left">Meus projetos são feitos com</h2>
+
+###
+
+ <strong><h3>Linguagens</h3></strong>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=kotlin,golang,python,java," />
 </div>
 
-- 📫 Email: lucasradiaradiador@gmail.com
-- 🧑‍💼 Linkedin: https://www.linkedin.com/in/lucas-andre98/
-> 📱 Diariamente, dedico-me ao meu aprimoramento como desenvolvedor de soluções mobile, criando soluções inovadoras que cabem na palma da mão.
+ <strong><h3>Banco de Dados</h3></strong>
 
+ <div>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+</div>
 
-# ***Projetos***
+ <strong><h3>DevOps & Ferramentas</h3></strong>
 
-LOADING...
+<div>
+ <img src="https://skillicons.dev/icons?i=git,idea,vscode,androidstudio" />
+</div>
+<h2> Contato </h2>
+<div style"display: inline_block">
+    <a href="mailto:lucasradiaradiador@gmail.com"><img
+            src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lucas-andre98/" target="_blank"><img
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://medium.com/@lucasradiaradiador" target="_blank"><img
+            src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+
+</div>
+
