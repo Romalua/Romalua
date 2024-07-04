@@ -10,8 +10,7 @@
 - 🧑‍💼 Linkedin: https://www.linkedin.com/in/lucas-andre98/
 > 📱 Diariamente, dedico-me ao meu aprimoramento como desenvolvedor de soluções mobile, criando soluções inovadoras que cabem na palma da mão.
 
-Ferramentas
-----
+# ***Projetos***
 <div style="display: inline_block"><br/>
     <img align="center" left="30" alt="feh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img align="center" alt="feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
