@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_barretoxd/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasradiaradiador)
 
-https://linktr.ee/lucasbarretoxd
-
 - 🤓 Meu nome é Lucas André Barreto. 
 - 🌱 Desenvolvo em ***KOTLIN***, ***JAVA***, ***GO*** e ***PYTHON***
 - 📫 Email: lucasradiaradiador@gmail.com
