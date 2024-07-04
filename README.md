@@ -8,12 +8,7 @@
 - 🌱 Desenvolvo em ***KOTLIN***, ***JAVA***, ***GO*** e ***PYTHON***
 - 📫 Email: lucasradiaradiador@gmail.com
 - 🧑‍💼 Linkedin: https://www.linkedin.com/in/lucas-andre98/
-- 📱 Diariamente, dedico-me ao meu aprimoramento como desenvolvedor mobile, criando soluções inovadoras que cabem na palma da mão.📱 
-
-
-
-
-
+> 📱 Diariamente, dedico-me ao meu aprimoramento como desenvolvedor de soluções mobile, criando soluções inovadoras que cabem na palma da mão.
 
 Ferramentas
 ----
