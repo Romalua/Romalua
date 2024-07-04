@@ -7,7 +7,7 @@
 ###
 
 <p>
-  Formado em Técnico em Informática e atualmente cursando Engenharia de Software. Desenvolvedor Mobile, especializado em Kotlin para Android, com formação no curso da UPInside. Estou constantemente aprimorando e atualizando meus conhecimentos nesta área dinâmica e empolgante, sempre buscando novas tecnologias e práticas inovadoras. Minha experiência inclui desenvolvimento de aplicações móveis robustas, design de interfaces intuitivas e integração de APIs. Meu objetivo é criar soluções móveis eficientes que ofereçam excelente experiência de usuário. 
+Formado em Técnico em Informática e atualmente cursando Engenharia de Software. Desenvolvedor Mobile, especializado em Kotlin para Android, com formação no curso da UPInside. Estou constantemente aprimorando e atualizando meus conhecimentos nesta área dinâmica e empolgante, sempre buscando novas tecnologias e     práticas inovadoras.           Minha experiência inclui desenvolvimento de aplicações móveis robustas, design de interfaces intuitivas e integração de APIs. Meu objetivo é criar soluções móveis eficientes que ofereçam excelente experiência de usuário. 
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?Romalua=anuraghazra&layout=compact">
   
