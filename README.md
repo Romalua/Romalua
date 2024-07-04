@@ -1,40 +1,40 @@
-<h1 align="left"> 👨🏻‍💻Olá! Bem-vindo ao meu perfil, me chamo Lucas André</h1>
+<h1 align="left"> 👨🏻‍💻Hello! Welcome to my profile, my name is Lucas André</h1>
 
 ###
 
-<h2 align="left">Sobre</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
 <p>
-Desenvolvedor Mobile, especializado em Kotlin para Android, com formação no curso da UPInside. Estou constantemente aprimorando e atualizando meus conhecimentos nesta área dinâmica e empolgante, sempre buscando novas tecnologias e     práticas inovadoras.           Minha experiência inclui desenvolvimento de aplicações móveis robustas, design de interfaces intuitivas e integração de APIs. Meu objetivo é criar soluções móveis eficientes que ofereçam excelente experiência de usuário. 
+Mobile Developer, specialized in Kotlin for Android, I am constantly improving and updating my knowledge in this dynamic and exciting field, always seeking new technologies and innovative practices. My experience includes developing robust mobile applications, designing intuitive interfaces, and integrating APIs. My goal is to create efficient mobile solutions that provide an excellent user experience.
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?Romalua=anuraghazra&layout=compact">
   
 ###
 
-<h2 align="left">Meus projetos são feitos com</h2>
+<h2 align="left">My projects are made with</h2>
 
 ###
 
- <strong><h3>Linguagens</h3></strong>
+ <strong><h3>Languages</h3></strong>
 
 <div>
   <img src="https://skillicons.dev/icons?i=kotlin,golang,python,java," />
 </div>
 
- <strong><h3>Banco de Dados</h3></strong>
+ <strong><h3>Databases</h3></strong>
 
  <div>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 </div>
 
- <strong><h3>DevOps & Ferramentas</h3></strong>
+ <strong><h3>DevOps & Tools</h3></strong>
 
 <div>
  <img src="https://skillicons.dev/icons?i=git,idea,vscode,androidstudio" />
 </div>
-<h2> Contato </h2>
+<h2> Contact </h2>
 <div style"display: inline_block">
     <a href="mailto:lucasradiaradiador@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
