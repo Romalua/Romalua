@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-andre98/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_barretoxd/)
-[![Medium](https://img.shields.io/badge/Medium-E4405F?style=for-the-badge&logo=medium&logoColor=white)]([https://www.instagram.com/lucas_barretoxd/](https://medium.com/@lucasradiaradiador))
+[![Medium](https://img.shields.io/badge/Medium-E4405F?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasradiaradiador))
 
 https://linktr.ee/lucasbarretoxd
 
