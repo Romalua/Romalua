@@ -20,5 +20,3 @@
 # ***Projetos***
 
 LOADING...
-<div class="tenor-gif-embed" data-postid="13651038" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/kids-next-door-knd-nickelodeon-cartoon-squad-gif-13651038">Kids Next Door Knd GIF</a>from <a href="https://tenor.com/search/kids+next+door-gifs">Kids Next Door GIFs</a></div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
