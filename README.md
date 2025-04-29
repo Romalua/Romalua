@@ -1,6 +1,6 @@
 <h1 align="left"> 👨🏻‍💻Hello!Lucas André Barreto</h1>
 
-<h2> Contact </h2>
+<h2>Contact <a href="mailto:lucasradiaradiador@gmail.com">lucasradiaradiador@gmail.com</a></h2>
 <div style"display: inline_block">
     <a href="mailto:lucasradiaradiador@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
