@@ -1,4 +1,4 @@
-<h1 align="left"> 👨🏻‍💻Hello! Welcome to my profile, my name is Lucas André</h1>
+<h1 align="left"> 👨🏻‍💻Hello!Lucas André Barreto</h1>
 
 ###
 
@@ -7,9 +7,9 @@
 ###
 
 <p>
-Mobile Developer, specialized in Kotlin for Android, I am constantly improving and updating my knowledge in this dynamic and exciting field, always seeking new technologies and innovative practices. My experience includes developing robust mobile applications, designing intuitive interfaces, and integrating APIs. My goal is to create efficient mobile solutions that provide an excellent user experience.
+Desenvolvedor Front-End especializado em JavaScript, HTML e CSS, estou sempre em constante evolução, acompanhando as tendências e inovações do desenvolvimento web. Tenho experiência na criação de interfaces intuitivas, responsivas e acessíveis, com foco na experiência do usuário. Meu objetivo é desenvolver soluções web eficientes, rápidas e modernas, aliando design e funcionalidade de forma harmoniosa. Gosto de explorar novas tecnologias e boas práticas para entregar produtos de qualidade que façam a diferença no dia a dia das pessoas.
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?Romalua=anuraghazra&layout=compact">
+<img src="[https://link-para-o-gif.gif](https://imgur.com/hS6G2Vt)" width="300" alt="Minha Animação">
   
 ###
 
