@@ -31,7 +31,7 @@ Desenvolvedor Front-End especializado em JavaScript, HTML e CSS, estou sempre em
  <strong><h3>DevOps & Tools</h3></strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,idea,vscode,androidstudio" />
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </div>
 <h2> Contact </h2>
 <div style"display: inline_block">
