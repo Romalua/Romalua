@@ -7,7 +7,7 @@
 ###
 
 <p>
-Desenvolvedor Front-End especializado em JavaScript, HTML e CSS, estou sempre em constante evolução, acompanhando as tendências e inovações do desenvolvimento web. Tenho experiência na criação de interfaces intuitivas, responsivas e acessíveis, com foco na experiência do usuário. Meu objetivo é desenvolver soluções web eficientes, rápidas e modernas, aliando design e funcionalidade de forma harmoniosa. Gosto de explorar novas tecnologias e boas práticas para entregar produtos de qualidade que façam a diferença no dia a dia das pessoas.
+Desenvolvedor Front-End especializado em JavaScript, HTML e CSS, estou sempre em constante evolução, acompanhando as tendências e inovações do desenvolvimento web. Tenho experiência na criação de interfaces intuitivas, responsivas e acessíveis, com foco na experiência do usuário. Meu objetivo é desenvolver soluções web eficientes, rápidas e modernas, aliando design e funcionalidade de forma harmoniosa. Gosto de explorar novas tecnologias e boas práticas para entregar produtos de qualidade que façam a diferença no dia a dia das pessoas.contato:lucasradiaradiador@gmail.com
 </p>
   
 ###
