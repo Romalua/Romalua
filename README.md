@@ -9,7 +9,6 @@
 <p>
 Desenvolvedor Front-End especializado em JavaScript, HTML e CSS, estou sempre em constante evolução, acompanhando as tendências e inovações do desenvolvimento web. Tenho experiência na criação de interfaces intuitivas, responsivas e acessíveis, com foco na experiência do usuário. Meu objetivo é desenvolver soluções web eficientes, rápidas e modernas, aliando design e funcionalidade de forma harmoniosa. Gosto de explorar novas tecnologias e boas práticas para entregar produtos de qualidade que façam a diferença no dia a dia das pessoas.
 </p>
-<img src="[https://link-para-o-gif.gif](https://imgur.com/hS6G2Vt)" width="300" alt="Minha Animação">
   
 ###
 
@@ -20,7 +19,7 @@ Desenvolvedor Front-End especializado em JavaScript, HTML e CSS, estou sempre em
  <strong><h3>Languages</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=kotlin,golang,python,java," />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,electron," />
 </div>
 
  <strong><h3>Databases</h3></strong>
