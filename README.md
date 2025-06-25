@@ -30,7 +30,7 @@ Contato: lucasradiaradiador@gmail.com
  <strong><h3>Languages</h3></strong>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,electron," />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,electron,python" />
 </div>
 
  <strong><h3>Databases</h3></strong>
