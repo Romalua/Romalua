@@ -1,4 +1,4 @@
-<h1 align="left"> 👨🏻‍💻Hello!Lucas André Barreto</h1>
+<h1 align="left"> 👨🏻‍💻Hello!Lucas André</h1>
 
 <h2>Contact <a href="mailto:lllucasandre@protonmail.com">lllucasandre@protonmail.com</a></h2>
 <div style"display: inline_block">
@@ -15,8 +15,8 @@
 ###
 
 <p>
-Desenvolvedor Front-End especializado em JavaScript, HTML e CSS, estou sempre em constante evolução, acompanhando as tendências e inovações do desenvolvimento web. Tenho experiência na criação de interfaces intuitivas, responsivas e acessíveis, com foco na experiência do usuário. Meu objetivo é desenvolver soluções web eficientes, rápidas e modernas, aliando design e funcionalidade de forma harmoniosa. Gosto de explorar novas tecnologias e boas práticas para entregar produtos de qualidade que façam a diferença no dia a dia das pessoas.
-Contato: lucasradiaradiador@gmail.com
+Desenvolvedor Front-End | JS • HTML • CSS • Figma
+Transformo ideias em experiências web fluídas, intuitivas e responsivas. Sempre antenado nas tendências e novas tecnologias, busco unir design e performance, usando ferramentas como Figma para criar interfaces elegantes e funcionais. Curto explorar boas práticas e soluções modernas que façam a diferença no dia a dia do usuário.
 </p>
   
 ###
