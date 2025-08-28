@@ -27,16 +27,10 @@ Contato: lucasradiaradiador@gmail.com
 
 ###
 
- <strong><h3>Languages</h3></strong>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,electron,python" />
-</div>
-
  <strong><h3>Technologies</h3></strong>
 
- <div>
-  <img src="https://skillicons.dev/icons?i=figma" />
+<div>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,electron,python,figma" />
 </div>
 
  <strong><h3>DevOps & Tools</h3></strong>
