@@ -36,13 +36,13 @@ Contato: lucasradiaradiador@gmail.com
  <strong><h3>Databases</h3></strong>
 
  <div>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </div>
 
  <strong><h3>DevOps & Tools</h3></strong>
 
 <div>
- <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+ <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
 
