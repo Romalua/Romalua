@@ -1,13 +1,11 @@
 <h1 align="left"> 👨🏻‍💻Hello!Lucas André Barreto</h1>
 
-<h2>Contact <a href="mailto:lucasradiaradiador@gmail.com">lucasradiaradiador@gmail.com</a></h2>
+<h2>Contact <a href="mailto:lllucasandre@protonmail.com">lllucasandre@protonmail.com</a></h2>
 <div style"display: inline_block">
-    <a href="mailto:lucasradiaradiador@gmail.com"><img
+    <a href="mailto:lllucasandre@protonmail.com"><img
             src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lucas-andre98/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://medium.com/@lucasradiaradiador" target="_blank"><img
-            src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
 ###
