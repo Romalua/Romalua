@@ -33,7 +33,7 @@ Contato: lucasradiaradiador@gmail.com
   <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,electron,python" />
 </div>
 
- <strong><h3>Databases</h3></strong>
+ <strong><h3>Technologies</h3></strong>
 
  <div>
   <img src="https://skillicons.dev/icons?i=figma" />
