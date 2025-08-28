@@ -3,7 +3,7 @@
 <h2>Contact <a href="mailto:lllucasandre@protonmail.com">lllucasandre@protonmail.com</a></h2>
 <div style"display: inline_block">
     <a href="mailto:lllucasandre@protonmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+            src="https://img.shields.io/badge/-ProtonMail-8B8B8B?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
     <a href="https://www.linkedin.com/in/lucas-andre98/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
